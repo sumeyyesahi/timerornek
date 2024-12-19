@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\KORUMASIZ\sümeyye sahi\ntp\kirmizi\kirmizi\bin\Debug\kirmizi.exe.config
+C:\Users\PC\Desktop\KORUMASIZ\sümeyye sahi\ntp\kirmizi\kirmizi\bin\Debug\kirmizi.exe
+C:\Users\PC\Desktop\KORUMASIZ\sümeyye sahi\ntp\kirmizi\kirmizi\bin\Debug\kirmizi.pdb
+C:\Users\PC\Desktop\KORUMASIZ\sümeyye sahi\ntp\kirmizi\kirmizi\obj\Debug\kirmizi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\KORUMASIZ\sümeyye sahi\ntp\kirmizi\kirmizi\obj\Debug\kirmizi.Form1.resources
+C:\Users\PC\Desktop\KORUMASIZ\sümeyye sahi\ntp\kirmizi\kirmizi\obj\Debug\kirmizi.Properties.Resources.resources
+C:\Users\PC\Desktop\KORUMASIZ\sümeyye sahi\ntp\kirmizi\kirmizi\obj\Debug\kirmizi.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\KORUMASIZ\sümeyye sahi\ntp\kirmizi\kirmizi\obj\Debug\kirmizi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KORUMASIZ\sümeyye sahi\ntp\kirmizi\kirmizi\obj\Debug\kirmizi.exe
+C:\Users\PC\Desktop\KORUMASIZ\sümeyye sahi\ntp\kirmizi\kirmizi\obj\Debug\kirmizi.pdb
